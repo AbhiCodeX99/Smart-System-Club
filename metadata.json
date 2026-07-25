@@ -1,0 +1,8 @@
+{
+  "name": "Smart System Club Reveal",
+  "description": "A cinematic motion graphics presentation for a Developer Club Shortlist Announcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
